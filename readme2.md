@@ -1,5 +1,5 @@
 #Starter
-A simple thing for a git course
+A simple thing for a git course. Adding a line for rebasing example.
 ##Intro
 blalbla
 ##Purpuse

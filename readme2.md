@@ -1,5 +1,5 @@
 #Starter
-A simple thing for a git course. Adding a line for rebasing example.
+A simple thing for a git course. Adding a line for rebasing example, then more changes from myfeature branch too.
 ##Intro
 blalbla
 ##Purpuse

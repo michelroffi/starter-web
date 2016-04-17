@@ -9,4 +9,4 @@ just do it
 ##How to contribute
 Please fork this repository then issue Pull requests for review.
 ###Copyright
-2016 Git.Training.
+2016 Git.Training. All rights reserved.
